@@ -34,4 +34,4 @@ Although the coding part of the game can get a little complex the game rules are
 
 **Final Ouput**
 
-![This is an image]()
+
